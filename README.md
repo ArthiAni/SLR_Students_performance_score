@@ -11,3 +11,5 @@ Y is dependent variable
 X is independent variable
 M is slope or coefficient
 c is intercept or constant
+
+Dataset : http://bit.ly/w-data
