@@ -5,3 +5,9 @@ In this task, i have implemented the concept of SIMPLE LINEAR REGRESSION to find
 
 
 ### Simple linear regression equation is a straight line with positive/negative/zero slope.
+#### Y = M(X) + c
+where,
+Y is dependent variable 
+X is independent variable
+M is slope or coefficient
+c is intercept or constant
